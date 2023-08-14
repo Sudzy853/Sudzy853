@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cybersecurity because it is extremely important in this increasingly digital world.
 - 🌱 I’m currently learning the foundations of Cybersecurity by taking the Google Cybersecurity course.
 - 💞️ I’m looking to collaborate on projects that can help automate processes related to Cybersecurity and tracking vulnerabilities. I also would like to collaborate on projects related to improving existing tools or creating new ones that make finding vulnerabilities easier to find and mitigate.
+- I value the integrity and morals required in this field because they apply so well in real life. Everyone should be mindful of how their actions are perceived by others and that without strong morals, we shouldn't be trusted by others. There are no shortcuts to hard work and perseverance.
 - My strengths are that I enjoy learning new things and just getting a better understanding of how technology works.
 - 📫 How to reach me would be through email. I will leave this later when I'm ready to make this public.
 
